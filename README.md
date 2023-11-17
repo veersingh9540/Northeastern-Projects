@@ -6,7 +6,7 @@ Welcome to my GitHub repository that houses all the projects completed during my
 
 ## Overview
 
-This repository serves as a comprehensive portfolio of the data analytics projects I have undertaken as part of my academic journey. Each project represents a unique exploration of various data analysis techniques, tools, and methodologies, showcasing my skills and learning throughout the program.
+This repository serves as a comprehensive portfolio of the data analytics projects I have undertaken as part of my academic journey Pursuing MS At Northeastern University. Each project represents a unique exploration of various data analysis techniques, Machine Learning, Neural Networks, tools, and methodologies, showcasing my skills and learning throughout the program.
 
 ## Project List
 
