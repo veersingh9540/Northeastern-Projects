@@ -15,10 +15,12 @@ The ACS Journal poll indicates that 83,570 persons will receive a brain tumor di
     - Building a CNN application for brain tumor image segmentation.
     - Demonstrate the model's loss, testing, and accuracy which should be greater than 80%.
     - Implementing whole project using Agile methodology.
- - Dataset:
-     -Link to the dataset:
-     -https://archive.ics.uci.edu/ml/datasets/primary+tumor
-     -https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+ 
+- Dataset:
+    - Link to the dataset:
+    - https://archive.ics.uci.edu/ml/datasets/primary+tumor
+    - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
 
 
 ## Getting Started
