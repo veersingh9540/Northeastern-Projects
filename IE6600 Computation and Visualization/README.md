@@ -1,4 +1,4 @@
-# IE 6600- Marketing Analysis amone financial institution 
+# IE 6600- Marketing Analysis among financial institution 
 
 ## Overview
 
