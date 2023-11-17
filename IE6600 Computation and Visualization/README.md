@@ -3,10 +3,9 @@
 ## Overview
 
 1.1 Background
-   Due to the increase of marketing campaigns, it is important to forecast the suitable advertising strategy that targets the appropriate demographic. as of January 12th, 2021, according to Wikipedia.
-   The sole reason that 97.4% of the products are being sold is because of financial institutions' marketing initiatives.
-   The budget and duration of the campaign should be estimated in accordance with the different campaign
-   types using an interactive dashboard.
+-Due to the increase of marketing campaigns, it is important to forecast the suitable advertising strategy that targets the appropriate demographic. as of January 12th, 2021, according to Wikipedia.
+-The sole reason that 97.4% of the products are being sold is because of financial institutions' marketing initiatives.
+-The budget and duration of the campaign should be estimated in accordance with the different campaign-types using an interactive dashboard.
 1.2 Dataset
    With a dataset like the "Bank Marketing Dataset" from the "UCI Machine Learning dataset," we intend to create an interactive web dashboard.
    Increased visualization of the needed information. This dataset's nearly 45k instances make it incredibly helpful. That will suffice to complete the task.
