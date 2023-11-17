@@ -4,7 +4,10 @@
 
 - Cancer Detection: Brain Tumor and Breast cancer classification
    - Objective: My objective is to develop a classification model to assess whether the patient's health data exhibits a brain/breast cancer or not, and if so, whether it is malignant.
-   - Tools : R programming, R shiny, Tidyverse
+   - Current State of Art : Cancer cell continue to be the most lethal form of cancer, and the human body's capacity to resist and treat them is quite restricted, according to pertinent studies from many   articles and study papers.
+Starting treatment when the cancer is still in its early stages is the key to curing this condition.
+The ACS Journal poll indicates that 83,570 persons will receive a brain tumor diagnosis in 2021. Therefore, developing such a model to detect tumors will be quite beneficial.
+
    - Dataset: With a dataset like the "Bank Marketing Dataset" from the "UCI Machine Learning dataset," we intend to create an interactive web dashboard.Increased visualization of the needed information. This dataset's nearly 45k instances make it incredibly helpful. That will suffice to complete the task.
 
 - Goal:
