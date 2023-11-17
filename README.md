@@ -39,4 +39,4 @@ If you're interested in exploring any specific project, navigate to the correspo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/data-analytics-masters-projects.git
+   git clone https://github.com/veersingh9540/Northeastern-Projects.git
