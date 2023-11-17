@@ -7,7 +7,7 @@
    - Tools : R programming, R shiny, Tidyverse
    - Dataset: With a dataset like the "Bank Marketing Dataset" from the "UCI Machine Learning dataset," we intend to create an interactive web dashboard.Increased visualization of the needed information. This dataset's nearly 45k instances make it incredibly helpful. That will suffice to complete the task.
 
- - Goal:
+- Goal:
     - To effectively visualize the marketing trend.
     - Examine the demographics of each campaign's audience.
     - Projection of all pertinent future trends.
